@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9700b30-4b53-4898-b5d5-f262bb9a923c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ConstrutorStudy/A.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControlStatement/IfStudy.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/LoopStatementStudy/BasicOfIncrement.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/LoopStatementStudy/ForLoopStudy.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/LoopStatementStudy/MiscInfinityLoop.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/arrayStudy/ArraySample2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/arrayStudy/ArraySample3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/assigmentStudy3/Q1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/assigmentStudy3/Q6.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/construtorStudy/A.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/controlStatement/Basics.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/controlStatement/ElseIfStudy.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/controlStatement/EvenOddNumber.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/controlStatement/IfElseStudy.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/controlStatement/IfStudy.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/controlStatement/NestedIfElse.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/controlStatement/SwitchCaseStudy.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/controlStatement/VowelTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/dataTypes/BooleanStudy.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/dataTypes/CharStudy.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/dataTypes/DecimalNumber.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/dataTypes/NumberStudy.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/dataTypes/StringStudy.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/dataTypes/StudentInfo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/methodStudy/MathOperationA.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/methodStudy/MathOperationB.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/methodStudy/MethodReuse.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/methodStudy/StaticMethod1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/methodStudy/StudentInfo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/stringStudy/StringMethod.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/variableTypesStudy/StaticMethodInVariable.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="390xLAtsGjnrCajnVEj9HzNkgIB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.A.executor": "Run",
+    "Application.AS.executor": "Run",
+    "Application.AllData.executor": "Run",
+    "Application.AnagramString.executor": "Run",
+    "Application.ArithmeticOperation.executor": "Run",
+    "Application.ArrayListMethods.executor": "Run",
+    "Application.ArrayListStudy.executor": "Run",
+    "Application.ArraySample2.executor": "Run",
+    "Application.ArraySample3.executor": "Run",
+    "Application.ArraySample4.executor": "Run",
+    "Application.ArraySimple1.executor": "Run",
+    "Application.Assign.executor": "Run",
+    "Application.Assign1.executor": "Run",
+    "Application.AssignValue.executor": "Run",
+    "Application.B.executor": "Run",
+    "Application.Base.executor": "Run",
+    "Application.Basic.executor": "Run",
+    "Application.Basic2.executor": "Run",
+    "Application.BasicOfIncrement.executor": "Run",
+    "Application.BasicString.executor": "Run",
+    "Application.Basics.executor": "Run",
+    "Application.BasicsOfDecrement.executor": "Run",
+    "Application.BooleanStudy.executor": "Run",
+    "Application.BooleanStudy1.executor": "Run",
+    "Application.C.executor": "Run",
+    "Application.CallingMethod.executor": "Run",
+    "Application.CastingFamily.executor": "Run",
+    "Application.CastingStudy.executor": "Run",
+    "Application.CharStudy.executor": "Run",
+    "Application.CharStudy1.executor": "Run",
+    "Application.ClassStudent.executor": "Run",
+    "Application.Constructor.executor": "Run",
+    "Application.CountDuplicateElementInIntArray.executor": "Run",
+    "Application.CountNumberOfWhiteSpace.executor": "Run",
+    "Application.CountVowel.executor": "Run",
+    "Application.CursorStudy.executor": "Run",
+    "Application.Data.executor": "Run",
+    "Application.DataType.executor": "Run",
+    "Application.DataTypeStudy.executor": "Run",
+    "Application.Day1.executor": "Run",
+    "Application.DecimalNumber.executor": "Run",
+    "Application.DecimalNumber1.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.Display.executor": "Run",
+    "Application.DoWhileLoopStudy.executor": "Run",
+    "Application.DrunkCheck.executor": "Run",
+    "Application.ElseIfExample2Condition.executor": "Run",
+    "Application.ElseIfStudy.executor": "Run",
+    "Application.ElseIfStudy1.executor": "Run",
+    "Application.EvenAndOdd.executor": "Run",
+    "Application.EvenOddNumber.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.Exception4.executor": "Run",
+    "Application.Exception5.executor": "Run",
+    "Application.Exception6.executor": "Run",
+    "Application.Exception7.executor": "Run",
+    "Application.ExceptionStudy1.executor": "Run",
+    "Application.ExceptionStudy2.executor": "Run",
+    "Application.ExceptionStudy3.executor": "Run",
+    "Application.FinalStudy.executor": "Run",
+    "Application.FindDuplicateElementInString.executor": "Run",
+    "Application.ForLoopStudy.executor": "Run",
+    "Application.HashSetStudy.executor": "Run",
+    "Application.IfElseStudy.executor": "Run",
+    "Application.IfElseStudy1.executor": "Run",
+    "Application.IfStudy.executor": "Run",
+    "Application.IncrementDecrement.executor": "Run",
+    "Application.InterviewQ1.executor": "Run",
+    "Application.LinkedHashSet.executor": "Run",
+    "Application.LinkedListStudy.executor": "Run",
+    "Application.LogicalOperators.executor": "Run",
+    "Application.MathOperationA.executor": "Run",
+    "Application.Method2.executor": "Run",
+    "Application.MethodCall.executor": "Run",
+    "Application.MethodCall2.executor": "Run",
+    "Application.MethodReuse.executor": "Run",
+    "Application.MethodStudy.executor": "Run",
+    "Application.MiscInfinityLoop.executor": "Run",
+    "Application.Mock.executor": "Run",
+    "Application.MultiLevelC.executor": "Run",
+    "Application.MyClass.executor": "Run",
+    "Application.Myclass.executor": "Run",
+    "Application.NameCall.executor": "Run",
+    "Application.NestedIfElse.executor": "Run",
+    "Application.NumberStudy.executor": "Run",
+    "Application.NumberWithDecimal.executor": "Run",
+    "Application.Over.executor": "Run",
+    "Application.PalindromeString.executor": "Run",
+    "Application.ParameterAdd.executor": "Run",
+    "Application.Pattern1.executor": "Run",
+    "Application.Pattern10.executor": "Run",
+    "Application.Pattern11.executor": "Run",
+    "Application.Pattern12.executor": "Run",
+    "Application.Pattern13.executor": "Run",
+    "Application.Pattern15.executor": "Run",
+    "Application.Pattern2.executor": "Run",
+    "Application.Pattern3.executor": "Run",
+    "Application.Pattern4.executor": "Run",
+    "Application.Pattern5.executor": "Run",
+    "Application.Pattern6.executor": "Run",
+    "Application.Pattern7.executor": "Run",
+    "Application.Pattern9.executor": "Run",
+    "Application.PriorityStudy.executor": "Run",
+    "Application.Q.executor": "Run",
+    "Application.Q1.executor": "Run",
+    "Application.Q10.executor": "Run",
+    "Application.Q11.executor": "Run",
+    "Application.Q12.executor": "Run",
+    "Application.Q13.executor": "Run",
+    "Application.Q14.executor": "Run",
+    "Application.Q15.executor": "Run",
+    "Application.Q16.executor": "Run",
+    "Application.Q17.executor": "Run",
+    "Application.Q18.executor": "Run",
+    "Application.Q19.executor": "Run",
+    "Application.Q2.executor": "Run",
+    "Application.Q20.executor": "Run",
+    "Application.Q21.executor": "Run",
+    "Application.Q22.executor": "Run",
+    "Application.Q23.executor": "Run",
+    "Application.Q25.executor": "Run",
+    "Application.Q26.executor": "Run",
+    "Application.Q27.executor": "Run",
+    "Application.Q29.executor": "Run",
+    "Application.Q3.executor": "Run",
+    "Application.Q30.executor": "Run",
+    "Application.Q31.executor": "Run",
+    "Application.Q32.executor": "Run",
+    "Application.Q33.executor": "Run",
+    "Application.Q34.executor": "Run",
+    "Application.Q35.executor": "Run",
+    "Application.Q36.executor": "Run",
+    "Application.Q37.executor": "Run",
+    "Application.Q38.executor": "Run",
+    "Application.Q39.executor": "Run",
+    "Application.Q4.executor": "Run",
+    "Application.Q41.executor": "Run",
+    "Application.Q42.executor": "Run",
+    "Application.Q5.executor": "Run",
+    "Application.Q6.executor": "Run",
+    "Application.Q7.executor": "Run",
+    "Application.Q8.executor": "Run",
+    "Application.Q9.executor": "Run",
+    "Application.QS.executor": "Run",
+    "Application.Que.executor": "Run",
+    "Application.RelationalOperator.executor": "Run",
+    "Application.RemoveDuplicateAndSort.executor": "Run",
+    "Application.RemoveVowel.executor": "Run",
+    "Application.RetrunTypeStudy.executor": "Run",
+    "Application.ReturnType.executor": "Run",
+    "Application.RevEx.executor": "Run",
+    "Application.ReverseOddPlaceFromString.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.ReverseStringUserInput.executor": "Run",
+    "Application.S.executor": "Run",
+    "Application.Sample.executor": "Run",
+    "Application.Sample2.executor": "Run",
+    "Application.SeniorCitizenWork.executor": "Run",
+    "Application.SingleLevelInheritance.executor": "Run",
+    "Application.Son.executor": "Run",
+    "Application.SonSubClass.executor": "Run",
+    "Application.StarPattern.executor": "Run",
+    "Application.StaticMethod1.executor": "Run",
+    "Application.StaticMethodInVariable.executor": "Run",
+    "Application.StaticNonstatic.executor": "Run",
+    "Application.StringBufferBuilderStudy.executor": "Run",
+    "Application.StringCharDif.executor": "Run",
+    "Application.StringMethod.executor": "Run",
+    "Application.StringStudy.executor": "Run",
+    "Application.StudentInfo.executor": "Run",
+    "Application.StudyData.executor": "Run",
+    "Application.StudyMIne.executor": "Run",
+    "Application.SumValue.executor": "Run",
+    "Application.SwitchCaseStudy.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.Test3.executor": "Run",
+    "Application.Test4.executor": "Run",
+    "Application.Test5.executor": "Run",
+    "Application.TestingDemo.executor": "Run",
+    "Application.TreeSetStudy.executor": "Run",
+    "Application.TypeStudy1.executor": "Run",
+    "Application.UserInput.executor": "Run",
+    "Application.V.executor": "Run",
+    "Application.V1.executor": "Run",
+    "Application.VectorStudy.executor": "Run",
+    "Application.VotingQualificationAge.executor": "Run",
+    "Application.VowelTest.executor": "Run",
+    "Application.WhileLoopStudy.executor": "Run",
+    "Application.X.executor": "Run",
+    "Application.Xyz.executor": "Run",
+    "Application.abstractClass.C.executor": "Run",
+    "Application.constructorChaining.B.executor": "Run",
+    "Application.demoStudy2.executor": "Run",
+    "Application.finalStudy.executor": "Run",
+    "Application.logicProgram.B.executor": "Run",
+    "Application.polymorphism.B.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/LENOVO/IdeaProjects/26Jan2026/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.completion.inline",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9700b30-4b53-4898-b5d5-f262bb9a923c" name="Changes" comment="" />
+      <created>1769846733396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769846733396</updated>
+      <workItem from="1769846737494" duration="481000" />
+      <workItem from="1769847270021" duration="650000" />
+      <workItem from="1769849622600" duration="742000" />
+      <workItem from="1770020772210" duration="7000" />
+      <workItem from="1770020812993" duration="229000" />
+      <workItem from="1770043656878" duration="2022000" />
+      <workItem from="1770099004725" duration="302000" />
+      <workItem from="1770131799051" duration="664000" />
+      <workItem from="1770188231060" duration="372000" />
+      <workItem from="1770188613992" duration="6000" />
+      <workItem from="1770188638542" duration="4000" />
+      <workItem from="1770218257014" duration="1201000" />
+      <workItem from="1770298618848" duration="313000" />
+      <workItem from="1770364932729" duration="3406000" />
+      <workItem from="1770391013648" duration="1262000" />
+      <workItem from="1770453233491" duration="3298000" />
+      <workItem from="1770456683084" duration="10000" />
+      <workItem from="1770476763798" duration="2014000" />
+      <workItem from="1770480062010" duration="976000" />
+      <workItem from="1770651563559" duration="924000" />
+      <workItem from="1770710411100" duration="2719000" />
+      <workItem from="1770734476015" duration="1142000" />
+      <workItem from="1770800943179" duration="1370000" />
+      <workItem from="1770802335235" duration="563000" />
+      <workItem from="1771226590018" duration="2488000" />
+      <workItem from="1771316637968" duration="4205000" />
+      <workItem from="1771399991771" duration="2585000" />
+      <workItem from="1771402607816" duration="2492000" />
+      <workItem from="1771480158035" duration="1799000" />
+      <workItem from="1771493919907" duration="1709000" />
+      <workItem from="1771509494545" duration="61000" />
+      <workItem from="1771509835192" duration="52000" />
+      <workItem from="1771510909499" duration="20000" />
+      <workItem from="1771568543182" duration="1958000" />
+      <workItem from="1771603036494" duration="679000" />
+      <workItem from="1771660164337" duration="15000" />
+      <workItem from="1771828882820" duration="988000" />
+      <workItem from="1771929260416" duration="1686000" />
+      <workItem from="1772002187912" duration="1840000" />
+      <workItem from="1772021005922" duration="222000" />
+      <workItem from="1772097994578" duration="6633000" />
+      <workItem from="1772184264544" duration="232000" />
+      <workItem from="1772197465797" duration="1861000" />
+      <workItem from="1772256671285" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
